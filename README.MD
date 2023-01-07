@@ -128,7 +128,7 @@ error pages.
 **A:** In your theme template folder for your site, copy the template
 provided by the **Customerror** module
 (i.e. `templates/customerror.html.twig`) and then make your
-modifications there.
+modifications there..
 
 **Q: I want to have a different template for my 404 and 403 pages.**
 
